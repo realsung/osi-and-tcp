@@ -1,1 +1,1 @@
-![]('./capture.PNG')
+![](./capture.PNG)
